@@ -1,6 +1,6 @@
 Finnish Invoice
 ===============
 
-#### Version: 0.2.0
+#### REPOSITORY REMOVED
 
-Make Odoo invoices look like these: https://www.isolta.fi/ilmainen-excel-laskupohja/
+The Finnish invoice can now be found from https://github.com/avoinsystems/avoinsystems-addons
